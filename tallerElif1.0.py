@@ -1,7 +1,7 @@
 """
 Punto 1 Comparar 4 números solicitados al usuario, escribir condiciones que permita
 mostrar que un número fue escrito 2 veces, que todos son iguales o por el contrario
-todos son diferentes.
+todos son diferentes..
 """
 
 num1 =int (input ("Escribe un número entero "))
